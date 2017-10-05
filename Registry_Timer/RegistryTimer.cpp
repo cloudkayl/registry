@@ -1,5 +1,6 @@
 // RegistryTimer.cpp : Defines the entry point for the console application.
-//
+//Program by Ayush Rout
+//------------------------------------------------------------------------------------//
 
 #include "stdafx.h"
 #include"stdio.h"
